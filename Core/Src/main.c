@@ -100,6 +100,7 @@ int main(void)
 
     /* USER CODE BEGIN 3 */
 	  get_si7021(&temp,&humid);
+	  //testing git
   }
   /* USER CODE END 3 */
 }
